@@ -153,7 +153,7 @@ This project provides empirical evidence to **bridge the ambition-access gap** o
 MBA (Business Economics), Department of Business Economics  
 University of Delhi  
 📧 pulkitgarg@email.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/pulkit-garg03) | [GitHub](https://github.com/pulkitgarg3)
+🔗 [LinkedIn](https://www.linkedin.com/in/pulkitgarg03) | [GitHub](https://github.com/pulkitgarg3)
 
 ---
 
