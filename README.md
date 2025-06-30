@@ -1,6 +1,6 @@
 # 🔬 Research Project
 
-## 🧩 Assessing the Impact of Energy Poverty on Human Development and Alignment with SDG 7: A State-Level Analysis in India
+## 🧩 Assessing the Impact of Energy Poverty on Human Development: A State-Level Analysis in India
 
 ---
 
